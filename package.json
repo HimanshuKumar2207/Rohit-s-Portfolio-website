@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "portfolio-website with fully dynamic with CMS",
+  "license": "ISC",
+  "author": "Himanshu Kumar",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  }
+}
